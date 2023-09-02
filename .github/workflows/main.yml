@@ -1,4 +1,3 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -22,14 +21,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: wtfgn
+          user: WTFGN
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/HongKong
+          config_timezone: Asia/Taipei
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
           plugin_wakatime: yes
-          plugin_wakatime_days: 30
+          plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: current
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
