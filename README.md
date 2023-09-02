@@ -27,7 +27,7 @@
         </td>
         <td>
           <!--  Main Info  -->
-          <img  src="/github-metrics.svg" alt="Metrics" width="400">
+          <img  src="/github-metrics.svg" alt="Metrics" width="700">
         </td>
       </tr>
     </tbody>
