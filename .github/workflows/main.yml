@@ -26,7 +26,7 @@ jobs:
           user: Glacy
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Hong Kong
+          config_timezone: Asia/HongKong
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
           plugin_wakatime: yes
