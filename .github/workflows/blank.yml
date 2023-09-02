@@ -20,7 +20,6 @@ jobs:
           config_timezone: Europe/Paris
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.wakatime.svg
           token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
