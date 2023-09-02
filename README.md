@@ -1,4 +1,4 @@
-  <h1 align="center">Hi there I'm Glacy</h1>
+  <h1 align="center">Hi there I'm Glacy/WTFGN</h1>
   <p align="center"> I'm a computer science student </p>
   
   
