@@ -1,5 +1,5 @@
-  <h1 align="center">Hi there I'm Proladon 🔰</h1>
-  <p align="center"> I'm a Industrial Designer / FrontEnd / Youtuber </p>
+  <h1 align="center">Hi there I'm wtfgn</h1>
+  <p align="center"> I'm a computer science student </p>
   <div align="center">
     <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
       <img alt="youtube subscribers"
@@ -16,14 +16,14 @@
   
   <!--  View Count  -->
   <div align="center">
-    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Proladon?theme=moebooru"></a>
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:wtfgn?theme=moebooru"></a>
   </div>
   
   <table align="center">
     <tbody>
       <tr>
         <td>
-          <img align="center" src="https://i.imgur.com/eLWkZMx.gif" height="470">
+          <img align="center" src="https://svgdb.me/assets/fullart/7143410100.png" height="470">
         </td>
         <td>
           <!--  Main Info  -->
@@ -34,8 +34,14 @@
   </table>
   
   ---
-  
-  [![My Skills](https://skillicons.dev/icons?i=vue,vite,express,nodejs,js,ts,html,css,windicss,py,tauri,electron,cs)](https://skillicons.dev)
-  
-  [![My Skills](https://skillicons.dev/icons?i=vscode,discord,blender,ps,pr,ae,docker,figma)](https://skillicons.dev)
-  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,vite,express,nodejs,js,ts,html,css,tailwind,py" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,discord" />
+  </a>
+</p>
