@@ -11,7 +11,7 @@
     <tbody>
       <tr>
         <td>
-          <img align="center" src="https://i.imgur.com/11FTx6M.gif" height="470">
+          <img align="center" src="https://i.imgur.com/4Vj5AlM.gif" height="470">
         </td>
         <td>
           <!--  Main Info  -->
