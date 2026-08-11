@@ -1,5 +1,5 @@
   <h1 align="center">Hi there I'm WTFGN</h1>
-  <p align="center"> I'm a computer science student </p>
+  <p align="center"> I'm a (lifelong) computer science student </p>
   
   
   <!--  View Count  -->
