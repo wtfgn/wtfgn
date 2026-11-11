@@ -1,5 +1,5 @@
-  <h1 align="center">Hi there I'm WTFGN</h1>
-  <p align="center"> I'm a (lifelong) computer science student </p>
+  <h1 align="center">Welcome Back</h1>
+  <p align="center"> Learning formal verification, type theory, functional programming, program semantics... </p>
   
   
   <!--  View Count  -->
